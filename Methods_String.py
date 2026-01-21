@@ -1,3 +1,7 @@
+# Return a copy of the string with all the cased characters converted to lowercas"
+s="ARYAN"
+print(s.lower())  # Output: aryan
+
 # Return a copy of the string with all the cased characters converted to lowercase.
 s="Aryan"
 print(s.lower())
@@ -43,3 +47,4 @@ print(s7.lstrip())
 s8="   Hello  "
 print(s8.rstrip())
 # output :    Hello
+
